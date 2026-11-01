@@ -95,4 +95,3 @@ input[type=range]::-webkit-slider-thumb {
   scrollbar-width: thin;
   scrollbar-color: rgba(99, 102, 241, 0.3) transparent;
 }
-#netlify-badge, a[href*="netlify.com"] { display: none !important; }
